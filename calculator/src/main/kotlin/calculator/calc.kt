@@ -1,6 +1,0 @@
-package calculator
-
-
-fun calc() {
-
-}
